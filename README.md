@@ -10,6 +10,7 @@
 |---|---|
 | [최종 발표자료 PDF](docs/runners-eye-final-presentation.pdf) | 팀 공동 발표자료 16페이지 |
 | [1분 45초 서비스 시연 영상](https://github.com/RunnersFeed-Project-Oracle-boot-camp/runners-feed-showcase/releases/download/v1.0.0/Runners_Feed_demo_01m45s.mp4) | 스마트폰 바탕화면이 나타나기 전까지 편집한 공개본 |
+| [GPU 영상 분석 PoC 검증](docs/poc-validation.md) | 병목 발견부터 성능 검증, 앱 통합 과정과 한계 |
 | [발표 예상 질문](anticipated-questions.md) | 프로젝트 발표 준비 과정에서 정리한 질문과 답변 |
 | [최종 팀 저장소](https://github.com/Temu-F4/Runners_Feed) | 앱, API, 모델과 운영 인프라를 통합한 팀 저장소 |
 
